@@ -1,1 +1,1 @@
-# f1tenth_starter_code
+# F1TENTH Capstone
